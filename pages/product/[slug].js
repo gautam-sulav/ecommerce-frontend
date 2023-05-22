@@ -114,7 +114,7 @@ const ProductDetails = () => {
         </div>
         
         <RelatedProducts>
-            
+
         </RelatedProducts>
       </Wrapper>
     </div>

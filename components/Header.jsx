@@ -63,6 +63,7 @@ const Header = () => {
           </div>
           {/* Icon sakkiyo hai */}
           {/* arkooooo Iconnn start vayo hai */}
+          <Link href="/cart">
           <div className="w-8 md:w-12 h-8 md:h-12 rounded-full flex justify-center items-center hover:bg-black/[0.05] cursor-pointer relative">
             {" "}
             <BsCart />
@@ -70,6 +71,7 @@ const Header = () => {
               5
             </div>
           </div>
+          </Link>
           {/* Icon sakkiyo hai */}
 
           {/* this icon mobile ko lagi ho hai */}
